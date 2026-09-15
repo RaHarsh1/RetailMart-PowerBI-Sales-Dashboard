@@ -109,6 +109,7 @@ An Age Group calculated column was also created for customer segmentation.
 
 📸 Dashboard Screenshots
 Executive Sales Overview
+screenshots/Executive Sales Overview.png
 
 Product & Customer Insights
 

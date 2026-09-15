@@ -98,14 +98,15 @@ Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
 An Age Group calculated column was also created for customer segmentation.
 
 💡 Key Insights
-RetailMart generated ₹351.34M in total sales and ₹123.55M in total profit.
-The overall profit margin is 35.17%.
-The dashboard helps compare monthly sales performance across the year.
-Online sales contribute 57.73%, while Store sales contribute 42.27%.
-Product-level analysis identifies the top-selling products and sub-categories.
-Customer-level analysis identifies high-value customers based on sales.
-Age-group analysis provides a view of sales contribution across customer segments.
-Regional analysis helps compare profitability across different regions.
+- RetailMart generated ₹351.34M in total sales and ₹123.55M in total profit.
+- The overall profit margin is 35.17%.
+- The dashboard helps compare monthly sales performance across the year.
+- Online sales contribute 57.73%, while Store sales contribute 42.27%.
+- Product-level analysis identifies the top-selling products and sub-categories.
+- Customer-level analysis identifies high-value customers based on sales.
+- Age-group analysis provides a view of sales contribution across customer segments.
+- Regional analysis helps compare profitability across different regions.
+
 📸 Dashboard Screenshots
 Executive Sales Overview
 
